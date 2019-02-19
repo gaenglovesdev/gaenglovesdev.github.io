@@ -19,16 +19,16 @@ baseurl: ""
 lang: ko
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title: Gaeng loves dev
+title: TECH BLOG
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  "Best Jekyll Theme by a Mile".
+  "Web Developer1".
   **Hydejack** is your presence on the web, featuring a blog, portfolio, and resume.
 
 # A shorter description for the sidebar.
-tagline:               '"Best Jekyll Theme by a Mile"'
+tagline:               '"Gaeng loves dev😍"'
 
 # A list of keywords for your blog
 keywords: []
@@ -36,19 +36,18 @@ keywords: []
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo: /assets/icons/icon.png
+logo: /assets/images/logo_black.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name: <firstname> <lastname>
-  email: <mail@domain.tld>
+  name: Kyeonggeun Cho
+  email: <gaengsworld@gmail.com>
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright: >
-  © 2018. All rights reserved.
-  Open `_config.yml` to edit this text.
+  © 2019. All rights reserved.
 
 # Add links to the footer.
 # Typically you'll want to link to your impress, cookies or privacy policy, etc.
