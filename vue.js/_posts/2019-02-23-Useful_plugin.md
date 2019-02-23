@@ -88,7 +88,7 @@ SPA 프로젝트에서 먼저 처리해야 할 것이 라우팅인데 , 서버�
 
 정적 파일을 내려주는 방식이다. SPA를 구현할 경우 화면 컨텐츠 출력을 위해 ajax를 사용하고,  
 
-*[hashbang](https://m.blog.naver.com/PostView.nhn?blogId=writer0713&logNo=220179565314&proxyReferer=https%3A%2F%2Fwww.google.com%2F)* 혹은 *[PushState](https://xetown.com/tips/93530)*를 사용해야 한다.
+*[hashbang](https://m.blog.naver.com/PostView.nhn?blogId=writer0713&logNo=220179565314&proxyReferer=https%3A%2F%2Fwww.google.com%2F)* 혹은 *[PushState](https://www.zerocho.com/category/HTML&DOM/post/599d2fb635814200189fe1a7)*를 사용해야 한다.
 
 단순한 라우팅을 직접 구현할 수도 있지만, 전용 라이브러리를 사용하는 것이 좋다.  
 공식문서에서는 *vue-router* 라이브러리를 추천하고 있다.
@@ -173,9 +173,9 @@ export default new Vuex.Store({
 
 *Thanks to*
 
-[참고 : 도서 Vue.js 이정도는 알아야지](http://www.yes24.com/Product/Goods/56894866)
-[참고 : 김정환 블로그 - Vue Router 알아보기](http://blog.jeonghwan.net/2018/04/07/vue-router.html)
-[참고 : 캡틴판교 - vuex 시작하기1](https://joshua1988.github.io/web-development/vuejs/vuex-start/)
-[참고 : 캡틴판교 - vuex 시작하기2](https://joshua1988.github.io/web-development/vuejs/vuex-getters-mutations/)
-[참고 : 캡틴판교 - vuex 시작하기3](https://joshua1988.github.io/web-development/vuejs/vuex-actions-modules/)
+[참고 : 도서 Vue.js 이정도는 알아야지](http://www.yes24.com/Product/Goods/56894866)  
+[참고 : 김정환 블로그 - Vue Router 알아보기](http://blog.jeonghwan.net/2018/04/07/vue-router.html)  
+[참고 : 캡틴판교 - vuex 시작하기1](https://joshua1988.github.io/web-development/vuejs/vuex-start/)  
+[참고 : 캡틴판교 - vuex 시작하기2](https://joshua1988.github.io/web-development/vuejs/vuex-getters-mutations/)  
+[참고 : 캡틴판교 - vuex 시작하기3](https://joshua1988.github.io/web-development/vuejs/vuex-actions-modules/)  
 
