@@ -29,7 +29,7 @@ VUE CDN  : `<script src="https://cdn.jsdelivr.net/npm/vue"></script>`
 ```html
 <!--html-->
 <div id="app">
-  {{ message }}
+  {% raw %}{{ message }}{% endraw %}
 </div>
 ```
 
