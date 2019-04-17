@@ -124,10 +124,10 @@ step1(function(value1) {
 
 ```js
 //선언
-async function something(data1){
-  const data2 = await gaeng1(data1);
-  const data3 = await gaeng1(data2);
-  const data4 = await gaeng1(data3);
+const something = async data1 => {
+  const data2 = await gaeng(data1);
+  const data3 = await gaeng(data2);
+  const data4 = await gaeng(data3);
 }
 //호출
 something(data)
@@ -136,6 +136,19 @@ something(data)
 #### 에러 처리
 
 `async / await`은 동기와 비동기 에러를 모두 `try/catch`를 통해서 처리할 수 있게 한다.
+
+```js
+const getData = async () => {
+  try {
+    const data = JSON.parse(await getJSON())
+    console.log(data)
+  } catch (error) {
+    console.log(error)
+  }
+}
+```
+
+
 *Thanks to*
 
 [참고 : Poiemaweb - Promise](https://poiemaweb.com/es6-promise)
