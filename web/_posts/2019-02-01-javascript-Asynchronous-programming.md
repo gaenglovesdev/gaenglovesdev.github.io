@@ -38,7 +38,7 @@ Asynchronous는 '요청과 그 결과가 동시에 일어나지 않는다'라는
 다음 태스크를 실행한다
 
 
-![비동기식 처리 모델](/assets/images/asynchronous/synchronous.png)
+![비동기식 처리 모델](/assets/images/asynchronous/asynchronous.png)
 
 
 ## Promise🤙
