@@ -12,11 +12,11 @@ author1:
 
   # This photo will be used in the about section
   picture:
-    path: /assets/images/logo_black.png
+    path: /assets/images/logo_black2.png
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
-      1x: /assets/images/logo_black.png
-      2x: /assets/images/logo_black.png
+      1x: /assets/images/logo_black2.png
+      2x: /assets/images/logo_black2.png
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
