@@ -9,7 +9,7 @@ tags: [vue.js,vue]
 imagefeature: 
 mathjax: 
 chart: 
-comments: true
+comments: false
 featured: true
 ---
 
