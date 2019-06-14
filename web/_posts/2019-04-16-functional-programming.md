@@ -3,7 +3,7 @@ layout: post
 title: "함수형 프로그래밍"
 description: >
   함수형 프로그래밍을 알아보자
-category: Web Front-end
+category: Web
 ---
 # 함수형 프로그래밍 (Functional Programming)
 

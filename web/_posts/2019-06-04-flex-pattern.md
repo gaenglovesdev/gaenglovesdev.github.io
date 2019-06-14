@@ -3,7 +3,7 @@ layout: post
 title: "FLUX pattern"
 description: >
   FLUX 패턴을 알아보자
-category: Web Front-end
+category: Web
 ---
 # FLUX 패턴(Flux pattern)
 

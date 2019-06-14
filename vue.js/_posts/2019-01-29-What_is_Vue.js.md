@@ -4,7 +4,7 @@ title: "Vue.js?"
 description: 
 headline: 
 modified: 2019-01-29
-category: dev
+category: vue.js
 tags: [vue.js,vue]
 imagefeature: 
 mathjax: 

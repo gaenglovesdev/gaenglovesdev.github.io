@@ -3,7 +3,7 @@ layout: post
 title: "REST, REST API, RESTFUL"
 description: >
   REST,REST API,RESTFUL를 알아보자
-category: Web Front-end
+category: Web
 ---
 ### REST, REST API, RESTFUL
 

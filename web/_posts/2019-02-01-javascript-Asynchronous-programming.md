@@ -3,7 +3,7 @@ layout: post
 title: "자바스크립트 비동기 프로그래밍"
 description: >
   자바스크립트 비동기 프로그래밍에 대해 설명합니다.
-category: Web Front-end
+category: Web
 ---
 
 # 자바스크립트 비동기 프로그래밍(Promise , Async Await)

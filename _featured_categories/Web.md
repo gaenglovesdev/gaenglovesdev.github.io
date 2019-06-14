@@ -1,9 +1,9 @@
 ---
 layout: list
-title: Web Front-end
-slug: Web Front-end
+title: Web
+slug: Web
 menu: true
-order: 1
+order: 0
 description: >
     Web
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "MVC, MVP, MVVM"
 description: >
   MVC, MVP, MVVM 패턴을 알아보자
-category: Web Front-end
+category: Web
 ---
 # 소프트웨어 아키텍쳐 패턴 - MVC,MVP,MVVM (Architecture pattern)
 
