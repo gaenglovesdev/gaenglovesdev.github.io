@@ -1,9 +1,9 @@
 ---
 layout: list
-title: Web
-slug: Web
+title: TIL
+slug: TIL
 menu: true
 order: 0
 description: >
-    Web
+    Today I Learned
 ---
